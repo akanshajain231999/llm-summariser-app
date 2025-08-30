@@ -55,15 +55,6 @@ Creating executive summaries
 
 Reducing academic or research papers
 
-## ✨ Future Enhancements (optional)
-Upload PDF or DOCX files
-
-Support summarizing from URLs
-
-Export summary as TXT or PDF
-
-User history / saved summaries
-
 
 
 
